@@ -1,0 +1,7 @@
+local directory="%(?:%{$fg_bold[cyan]%}%c% :%{$fg_bold[magenta]%}%c% )"
+local symbol="%(?:%{$fg_bold[blue]%} ➜  :%{$fg_bold[yellow]%} ➜  )"
+local user="%(?:%{$fg_bold[green]%}%n :%{$fg_bold[grey]%}%n% )"
+local hosted="%(?:%{$fg[red]%}%m %{$reset_color%} "$(curl -4 icanhazip.com)" :%{$fg[cyan]%}%m %{$reset_color%} "$(curl -4 icanhazip.com)" )"
+
+PROMPT=' ${user} ${hosted}
+ ${directory} ${symbol}'

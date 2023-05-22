@@ -1,0 +1,24 @@
+[KFileDialog Settings]
+detailViewIconSize=16
+
+[MainWindow]
+1360x768 screen: Height=670
+1360x768 screen: Width=1020
+1360x768 screen: XPosition=143
+1360x768 screen: YPosition=71
+1366x768 screen: Height=502
+1366x768 screen: Width=898
+1366x768 screen: XPosition=224
+1366x768 screen: YPosition=100
+1920x1080 screen: XPosition=450
+1920x1080 screen: YPosition=167
+2 screens: Height=700
+2 screens: Width=1056
+2 screens: XPosition=2053
+2 screens: YPosition=50
+HDMI-1=HDMI-1
+HDMI-1 eDP-1=HDMI-1
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAKeAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

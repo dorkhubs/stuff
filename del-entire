@@ -1,0 +1,35 @@
+#!/usr/bin/env zsh
+
+function deleted_files_assosiated() {
+
+   determine() {
+
+      echo "Make Your Selection :$selected"
+      read selected
+      export selection=$selected
+      export selected=''
+
+      echo "Finding Files Assosiated To Your Selection"
+      cd /; wait
+   }
+   
+   determine
+   
+   grep_find() {
+
+      find | grep $selection
+
+   }
+
+   remove_selected() {
+
+      sudo rm -r $(grep_find)
+
+   }
+
+   remove_selected
+
+}
+
+deleted_files_assosiated
+

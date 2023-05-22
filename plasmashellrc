@@ -1,0 +1,114 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/backdrop.jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(11).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(10).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(9).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(8).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(7).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(6).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(5).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(4).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(3).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(2).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper(1).jpg,file:$HOME/Downloads/wallpaperflare.com_wallpaper.jpg,file:$HOME/Pictures/apple14.jpg,file:$HOME/Pictures/apple13.jpg,file:$HOME/Pictures/apple12.jpg,file:$HOME/Pictures/apple11.jpg,file:$HOME/Pictures/apple10.jpg,file:$HOME/Pictures/apple9.png,file:$HOME/Pictures/apple8.png,file:$HOME/Pictures/apple7.jpg,file:$HOME/Pictures/apple6.jpg,file:$HOME/Pictures/apple5.jpg,file:$HOME/Pictures/apple3.jpg,file:$HOME/Pictures/apple2.jpg,file:$HOME/Pictures/apple1.jpg,file:$HOME/Pictures/aplle4.jpg
+Recent URLs[$e]=file:///CorbNoxious/Downloads/,file:$HOME/Desktop/mycons/,file:$HOME/Downloads/,file:$HOME/Pictures/,file:$HOME/
+detailViewIconSize=48
+
+[PlasmaTransientsConfig]
+PreloadWeight=0
+
+[PlasmaViews][Panel 126]
+alignment=132
+floating=1
+panelVisibility=2
+
+[PlasmaViews][Panel 126][Defaults]
+maxLength=1728
+minLength=100
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 126][Horizontal1920]
+maxLength=1728
+minLength=100
+
+[PlasmaViews][Panel 134]
+floating=1
+
+[PlasmaViews][Panel 134][Defaults]
+maxLength=571
+minLength=561
+offset=185
+thickness=46
+
+[PlasmaViews][Panel 134][Horizontal1360]
+maxLength=643
+minLength=643
+offset=415
+
+[PlasmaViews][Panel 134][Horizontal1920]
+maxLength=1259
+minLength=1259
+
+[PlasmaViews][Panel 134][Vertical768]
+maxLength=571
+minLength=561
+offset=185
+
+[PlasmaViews][Panel 2][Defaults]
+offset=0
+thickness=24
+
+[PlasmaViews][Panel 25][Defaults]
+maxLength=670
+minLength=670
+offset=355
+thickness=42
+
+[PlasmaViews][Panel 25][Horizontal1360]
+maxLength=670
+minLength=670
+offset=355
+
+[PlasmaViews][Panel 3][Defaults]
+maxLength=539
+minLength=526
+offset=676
+thickness=66
+
+[PlasmaViews][Panel 3][Horizontal1920]
+maxLength=539
+minLength=526
+offset=676
+
+[PlasmaViews][Panel 30]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 30][Defaults]
+maxLength=1229
+minLength=191
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 30][Horizontal1366]
+maxLength=1229
+minLength=191
+
+[PlasmaViews][Panel 35][Defaults]
+offset=0
+thickness=32
+
+[PlasmaViews][Panel 60][Defaults]
+offset=0
+thickness=24
+
+[PlasmaViews][Panel 88]
+alignment=132
+panelVisibility=2
+
+[PlasmaViews][Panel 88][Defaults]
+maxLength=1728
+minLength=268
+offset=0
+thickness=66
+
+[PlasmaViews][Panel 88][Horizontal1920]
+maxLength=1728
+minLength=268
+
+[PlasmaViews][Panel 98][Defaults]
+offset=0
+thickness=24
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js

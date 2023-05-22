@@ -1,0 +1,51 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[1]
+Description=Application settings for systemsettings
+clientmachine=localhost
+minsize=600,300
+minsizerule=2
+wmclass=systemsettings systemsettings
+wmclasscomplete=true
+wmclassmatch=1
+
+[15c714f5-aabc-49f2-aee6-1bf420ae5819]
+Description=Application settings for systemsettings
+clientmachine=localhost
+minsize=600,300
+minsizerule=2
+wmclass=systemsettings systemsettings
+wmclasscomplete=true
+wmclassmatch=1
+
+[2]
+Description=Application settings for systemsettings
+clientmachine=localhost
+minsize=700,432
+minsizerule=2
+wmclass=systemsettings5 systemsettings
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=3
+rules=cbe89def-36cd-40ae-946a-48a77933c732,1,2
+
+[bd38ee1e-c468-489f-af9f-307bdbfcffd7]
+Description=Application settings for systemsettings
+clientmachine=localhost
+minsize=700,432
+minsizerule=2
+wmclass=systemsettings5 systemsettings
+wmclasscomplete=true
+wmclassmatch=1
+
+[cbe89def-36cd-40ae-946a-48a77933c732]
+Description=Application settings for qemu-system-x86_64
+clientmachine=localhost
+minsize=500,300
+minsizerule=2
+wmclass=qemu qemu-system-x86_64
+wmclasscomplete=true
+wmclassmatch=1
